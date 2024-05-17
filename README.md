@@ -1,7 +1,4 @@
 # Sentiment-Analysis-of-Restaurant-Reviews
-
-      This repository contains the code and resources for the Sentiment Analysis for Restaurant Reviews project. The project aims to classify restaurant reviews into positive, negative, or neutral sentiments using machine learning and natural language processing (NLP) techniques.
-
 **Table of Contents**
       1 Project Overview
       2 Objectives
